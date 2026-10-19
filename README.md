@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandra 👋</h1>
+<h1 align="center">Hi, I'm Alex Chase 👋</h1>
 
 <p align="center">
 Process engineer & CS grad, pursuing an M.Eng in Chemical Engineering at Cornell, building at the intersection of software, data, and operations engineering.
